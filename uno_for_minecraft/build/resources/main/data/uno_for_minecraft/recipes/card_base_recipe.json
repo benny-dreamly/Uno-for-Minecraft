@@ -1,0 +1,33 @@
+{
+  "group": "uno_for_minecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "uno_for_minecraft:refined_paper"
+    },
+    "1": {
+      "item": "uno_for_minecraft:refined_paper"
+    },
+    "2": {
+      "item": "uno_for_minecraft:refined_paper"
+    },
+    "3": {
+      "item": "uno_for_minecraft:refined_paper"
+    },
+    "4": {
+      "item": "uno_for_minecraft:refined_paper"
+    },
+    "5": {
+      "item": "uno_for_minecraft:refined_paper"
+    }
+  },
+  "result": {
+    "item": "uno_for_minecraft:card_base",
+    "count": 1
+  }
+}

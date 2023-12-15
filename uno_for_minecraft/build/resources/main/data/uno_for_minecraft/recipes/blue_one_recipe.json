@@ -1,0 +1,33 @@
+{
+  "group": "uno_for_minecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blue_wool"
+    },
+    "1": {
+      "item": "minecraft:blue_wool"
+    },
+    "4": {
+      "item": "uno_for_minecraft:numberonebase"
+    },
+    "6": {
+      "item": "minecraft:blue_wool"
+    },
+    "7": {
+      "item": "minecraft:blue_wool"
+    },
+    "8": {
+      "item": "minecraft:blue_wool"
+    }
+  },
+  "result": {
+    "item": "uno_for_minecraft:blue_one",
+    "count": 1
+  }
+}
