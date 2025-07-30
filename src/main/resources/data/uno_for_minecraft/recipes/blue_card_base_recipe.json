@@ -1,0 +1,42 @@
+{
+  "group": "uno_for_minecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blue_dye"
+    },
+    "1": {
+      "item": "minecraft:blue_dye"
+    },
+    "2": {
+      "item": "minecraft:blue_dye"
+    },
+    "3": {
+      "item": "minecraft:blue_dye"
+    },
+    "4": {
+      "item": "uno_for_minecraft:card_base"
+    },
+    "5": {
+      "item": "minecraft:blue_dye"
+    },
+    "6": {
+      "item": "minecraft:blue_dye"
+    },
+    "7": {
+      "item": "minecraft:blue_dye"
+    },
+    "8": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "result": {
+    "item": "uno_for_minecraft:blue_card_base",
+    "count": 1
+  }
+}

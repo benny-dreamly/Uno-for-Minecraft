@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RefinedPaperCooked"
+      },
+      {
+        "value": "CUSTOM:RefinedPaperCooked"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RefinedPaperCooked"
+      },
+      {
+        "value": "CUSTOM:RefinedPaperCooked"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RefinedPaperCooked"
+      },
+      {
+        "value": "CUSTOM:RefinedPaperCooked"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CardBase"
+    },
+    "name": "card_base_recipe",
+    "namespace": "mod"
+  }
+}

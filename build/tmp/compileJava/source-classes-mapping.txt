@@ -1,0 +1,58 @@
+net/mcreator/unoforminecraft/item/NumberonebaseItem.java
+ net.mcreator.unoforminecraft.item.NumberonebaseItem
+ net.mcreator.unoforminecraft.item.NumberonebaseItem$ItemCustom
+net/mcreator/unoforminecraft/item/RefinedPaperItem.java
+ net.mcreator.unoforminecraft.item.RefinedPaperItem
+ net.mcreator.unoforminecraft.item.RefinedPaperItem$ItemCustom
+net/mcreator/unoforminecraft/UnoForMinecraftMod.java
+ net.mcreator.unoforminecraft.UnoForMinecraftMod
+ net.mcreator.unoforminecraft.UnoForMinecraftMod$UnoForMinecraftModFMLBusEvents
+net/mcreator/unoforminecraft/itemgroup/UnoforMinecraftItemGroup.java
+ net.mcreator.unoforminecraft.itemgroup.UnoforMinecraftItemGroup
+ net.mcreator.unoforminecraft.itemgroup.UnoforMinecraftItemGroup$1
+net/mcreator/unoforminecraft/item/RedCardBaseItem.java
+ net.mcreator.unoforminecraft.item.RedCardBaseItem
+ net.mcreator.unoforminecraft.item.RedCardBaseItem$ItemCustom
+net/mcreator/unoforminecraft/item/RefinedPaperCookedItem.java
+ net.mcreator.unoforminecraft.item.RefinedPaperCookedItem
+ net.mcreator.unoforminecraft.item.RefinedPaperCookedItem$ItemCustom
+net/mcreator/unoforminecraft/item/YellowCardBaseItem.java
+ net.mcreator.unoforminecraft.item.YellowCardBaseItem
+ net.mcreator.unoforminecraft.item.YellowCardBaseItem$ItemCustom
+net/mcreator/unoforminecraft/item/BlueCardBaseItem.java
+ net.mcreator.unoforminecraft.item.BlueCardBaseItem
+ net.mcreator.unoforminecraft.item.BlueCardBaseItem$ItemCustom
+net/mcreator/unoforminecraft/item/CardBaseItem.java
+ net.mcreator.unoforminecraft.item.CardBaseItem
+ net.mcreator.unoforminecraft.item.CardBaseItem$ItemCustom
+net/mcreator/unoforminecraft/UnoForMinecraftModElements.java
+ net.mcreator.unoforminecraft.UnoForMinecraftModElements
+ net.mcreator.unoforminecraft.UnoForMinecraftModElements$ModElement
+ net.mcreator.unoforminecraft.UnoForMinecraftModElements$ModElement$Tag
+net/mcreator/unoforminecraft/item/GreenCardBaseItem.java
+ net.mcreator.unoforminecraft.item.GreenCardBaseItem
+ net.mcreator.unoforminecraft.item.GreenCardBaseItem$ItemCustom
+net/mcreator/unoforminecraft/item/BlueOneItem.java
+ net.mcreator.unoforminecraft.item.BlueOneItem
+ net.mcreator.unoforminecraft.item.BlueOneItem$ItemCustom
+net/mcreator/unoforminecraft/item/BlueOneCardItem.java
+ net.mcreator.unoforminecraft.item.BlueOneCardItem
+ net.mcreator.unoforminecraft.item.BlueOneCardItem$ItemCustom
+net/mcreator/unoforminecraft/item/RedOneItem.java
+ net.mcreator.unoforminecraft.item.RedOneItem
+ net.mcreator.unoforminecraft.item.RedOneItem$ItemCustom
+net/mcreator/unoforminecraft/item/RedOneCardItem.java
+ net.mcreator.unoforminecraft.item.RedOneCardItem
+ net.mcreator.unoforminecraft.item.RedOneCardItem$ItemCustom
+net/mcreator/unoforminecraft/item/GreenOneItem.java
+ net.mcreator.unoforminecraft.item.GreenOneItem
+ net.mcreator.unoforminecraft.item.GreenOneItem$ItemCustom
+net/mcreator/unoforminecraft/item/YellowOneItem.java
+ net.mcreator.unoforminecraft.item.YellowOneItem
+ net.mcreator.unoforminecraft.item.YellowOneItem$ItemCustom
+net/mcreator/unoforminecraft/item/YellowOneCardItem.java
+ net.mcreator.unoforminecraft.item.YellowOneCardItem
+ net.mcreator.unoforminecraft.item.YellowOneCardItem$ItemCustom
+net/mcreator/unoforminecraft/item/GreenOneCardItem.java
+ net.mcreator.unoforminecraft.item.GreenOneCardItem
+ net.mcreator.unoforminecraft.item.GreenOneCardItem$ItemCustom

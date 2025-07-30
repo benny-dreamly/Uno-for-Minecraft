@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Uno for Minecraft",
+    "icon": {
+      "value": "CUSTOM:CardBase"
+    },
+    "showSearch": false
+  }
+}

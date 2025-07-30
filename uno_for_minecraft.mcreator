@@ -1,0 +1,347 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RefinedPaper",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "raw_refined_paper"
+    },
+    {
+      "name": "RefinedPaperRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_paper_recipe"
+    },
+    {
+      "name": "RefinedPaperCooked",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_paper"
+    },
+    {
+      "name": "RefinedPaperFurnace",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "refined_paper_furnace"
+    },
+    {
+      "name": "CardBase",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "card_base"
+    },
+    {
+      "name": "CardBaseRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "card_base_recipe"
+    },
+    {
+      "name": "RedCardBase",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_card_base"
+    },
+    {
+      "name": "BlueCardBase",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_card_base"
+    },
+    {
+      "name": "GreenCardBase",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_card_base"
+    },
+    {
+      "name": "YellowCardBase",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_card_base"
+    },
+    {
+      "name": "YellowCardBaseRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_card_base_recipe"
+    },
+    {
+      "name": "RedCardBaseRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_card_base_recipe"
+    },
+    {
+      "name": "BlueCardBaseRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_card_base_recipe"
+    },
+    {
+      "name": "GreenCardBaseRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_card_base_recipe"
+    },
+    {
+      "name": "UnoforMinecraft",
+      "type": "tab",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unofor_minecraft"
+    },
+    {
+      "name": "Numberonebase",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "numberonebase"
+    },
+    {
+      "name": "OneBaseRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "one_base_recipe"
+    },
+    {
+      "name": "BlueOne",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_one"
+    },
+    {
+      "name": "BlueOneRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_one_recipe"
+    },
+    {
+      "name": "BlueOneCard",
+      "type": "item",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_one_card"
+    },
+    {
+      "name": "BlueOneCardRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_one_card_recipe"
+    },
+    {
+      "name": "RedOne",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_one"
+    },
+    {
+      "name": "RedOneRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_one_recipe"
+    },
+    {
+      "name": "RedOneCard",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_one_card"
+    },
+    {
+      "name": "RedOneCardRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_one_card_recipe"
+    },
+    {
+      "name": "GreenOne",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_one"
+    },
+    {
+      "name": "YellowOne",
+      "type": "item",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_one"
+    },
+    {
+      "name": "YellowOneCard",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_one_card"
+    },
+    {
+      "name": "GreenOneCard",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_one_card"
+    },
+    {
+      "name": "GreenOneRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_one_recipe"
+    },
+    {
+      "name": "YellowOneRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_one_recipe"
+    },
+    {
+      "name": "YellowOneCardRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_one_card_recipe"
+    },
+    {
+      "name": "GreenOneCardRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_one_card_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.uno_for_minecraft.blue_one": "Blue One",
+      "item.uno_for_minecraft.yellow_one_card": "Yellow One Card",
+      "itemGroup.tabunofor_minecraft": "Uno for Minecraft",
+      "item.uno_for_minecraft.yellow_card_base": "Yellow Card Base",
+      "item.uno_for_minecraft.blue_one_card": "Blue One Card",
+      "item.uno_for_minecraft.yellow_one": "Yellow One",
+      "item.uno_for_minecraft.red_one": "Red One",
+      "item.uno_for_minecraft.red_one_card": "Red One Card",
+      "item.uno_for_minecraft.blue_card_base": "Blue Card Base",
+      "item.uno_for_minecraft.green_one_card": "Green One Card",
+      "item.uno_for_minecraft.red_card_base": "Red Card Base",
+      "item.uno_for_minecraft.green_one": "Green One",
+      "item.uno_for_minecraft.green_card_base": "Green Card Base",
+      "item.uno_for_minecraft.card_base": "Card Base",
+      "item.uno_for_minecraft.numberonebase": "Numberonebase",
+      "item.uno_for_minecraft.raw_refined_paper": "Raw Refined Paper",
+      "item.uno_for_minecraft.refined_paper": "Refined Paper "
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "uno_for_minecraft",
+    "modName": "Uno for Minecraft",
+    "version": "1.0.0",
+    "author": "Ben Mason, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.unoforminecraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

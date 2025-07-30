@@ -1,0 +1,16 @@
+{
+  "group": "uno_for_minecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "uno_for_minecraft:yellow_card_base"
+    },
+    {
+      "item": "uno_for_minecraft:yellow_one"
+    }
+  ],
+  "result": {
+    "item": "uno_for_minecraft:yellow_one_card",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "uno_for_minecraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "uno_for_minecraft:green_one"
+    },
+    {
+      "item": "uno_for_minecraft:green_card_base"
+    }
+  ],
+  "result": {
+    "item": "uno_for_minecraft:green_one_card",
+    "count": 1
+  }
+}
